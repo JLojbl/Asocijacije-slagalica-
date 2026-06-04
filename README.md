@@ -1,1 +1,2 @@
 # Asocijacije-slagalica-
+04.06.2026. --> Ispravljene prethodne verzije koda i skoro zavrsena igrica(fali jos par sitnih izmena). Implementiran dizan pomocu komandi i napisani komentari, kreirana baza podataka, dodato dugme za novu igru koje resetuje asocijacije, funkcija za random asocijacije, komentari i uradjen seminarski rad. Baze podataka su uzete sa sledeceg sajta : https://www.scribd.com/doc/103443460/asocijacije1-1
