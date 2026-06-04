@@ -1,0 +1,7 @@
+C:\Users\Ucenik-MAT1-18\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\Ucenik-MAT1-18\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.csproj.GenerateResource.Cache
+C:\Users\Ucenik-MAT1-18\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.Form1.resources
+C:\Users\Ucenik-MAT1-18\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+C:\Users\Ucenik-MAT1-18\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+C:\Users\Ucenik-MAT1-18\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.exe
+C:\Users\Ucenik-MAT1-18\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\x86\Debug\WindowsFormsApplication19.pdb
